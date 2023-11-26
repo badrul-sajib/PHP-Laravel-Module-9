@@ -31,7 +31,7 @@ Here is my personal portfolio website. I have used Laravel framework for the bac
 
 1. Clone the repository:
 
-   git clone [https://github.com/your-username/your-repo.git](https://github.com/badrul-sajib/PHP-Laravel-Module-9)
+   git clone: [https://github.com/badrul-sajib/PHP-Laravel-Module-9]
 
 
 1. Navigate into the project directory:
